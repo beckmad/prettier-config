@@ -1,0 +1,15 @@
+{
+  "name": "@beckmad/prettier-config",
+  "version": "1.0.1",
+  "description": "My personal Prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Asilbek Madiev",
+  "license": "ISC"
+}
